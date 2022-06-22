@@ -1,2 +1,1 @@
-facebook.com, 1631107354, RESELLER, c3e20eee3f780d68
-facebook.com, com.Cody.ThrowaBoomerang, RESELLER, c3e20eee3f780d68
+facebook.com, 604145464194213, RESELLER, c3e20eee3f780d68
